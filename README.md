@@ -1,2 +1,3 @@
 # Survivor.io-Online
-Online version of survivor.io
+Making an online version of survivor.io
+
